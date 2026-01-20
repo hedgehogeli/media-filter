@@ -1,0 +1,5 @@
+*.html
+*.txt
+
+**/__pycache__/*
+*.pyc
